@@ -1,0 +1,1 @@
+alert("Iam an external file")
